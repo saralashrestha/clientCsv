@@ -30,9 +30,9 @@ Extract the archive file to a directory that is directly under the Web root.
 
 You can then access the application through the following URL:
 
-~~~
+
 http://localhost/clientCsv/web/
-~~~
+=======
 
 FILES USED
 -------------
@@ -50,3 +50,4 @@ DEMO
 2. Add client.
 3. Click on client list to view the client detail.
 4. Client information is saved as client.csv on upload folder. 
+
